@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: DockerFileTest
+  profiles:
+    active: dev
+
+
+app:
+  version: 2.0

@@ -1,0 +1,7 @@
+
+
+server:
+  port: 19090
+
+app:
+  version: 1.0

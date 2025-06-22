@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="DockerFileTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dockerfiletest-v2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DockerFileTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
